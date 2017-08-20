@@ -1,0 +1,13 @@
+{
+    "name": "rander/relatorios_fpdf",
+    "description": "Exemplos de relatorios com a biblioteca FPDF",
+    "require": {
+        "setasign/fpdf": "^1.8"
+    },
+    "authors": [
+        {
+            "name": "Rander Carlos",
+            "email": "randerccf@gmail.com"
+        }
+    ]
+}
